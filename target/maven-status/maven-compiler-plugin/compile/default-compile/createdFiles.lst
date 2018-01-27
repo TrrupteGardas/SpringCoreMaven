@@ -1,0 +1,6 @@
+spring\di\consumer\MyApplication.class
+spring\di\service\MessageService.class
+com\di\client\ClientApplication.class
+spring\di\service\EmailService.class
+spring\di\configuration\DIConfiguration.class
+spring\di\service\TwitterService.class
